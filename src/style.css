@@ -14,10 +14,15 @@
 
 .recipe-card {
     border-color: darkred;
-    width: 18rem;
+    max-width: 18rem;
 }
 
 .btn-recipe-card {
     background-color: darkred;
     color: white;
+}
+
+.img-recipe-card {
+    object-fit: cover;
+    height: 200px;
 }
