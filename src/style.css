@@ -11,3 +11,13 @@
 .title-color {
     color: darkred;
 }
+
+.recipe-card {
+    border-color: darkred;
+    width: 18rem;
+}
+
+.btn-recipe-card {
+    background-color: darkred;
+    color: white;
+}
